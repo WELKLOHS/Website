@@ -1,2 +1,22 @@
-# Website
-Website
+# Meine Website
+Meine Website Beschreibung
+
+mark-garage/
+├── index.html              # Startseite
+├── css/
+│   └── style.css           # Styling (dark, industrial)
+├── js/
+│   └── main.js             # Animationen, Scroll-Effekte
+├── pages/
+│   ├── impressum.html
+│   ├── datenschutz.html
+│   └── kontakt.html
+└── assets/
+    ├── images/             # Fotos der Projekte, Werkstatt etc.
+    │   ├── projekt-01.jpg
+    │   ├── projekt-02.jpg
+    │   ├── projekt-03.jpg
+    │   ├── projekt-04.jpg
+    │   └── video-poster.jpg
+    └── videos/
+        └── showreel.mp4    # Optionales Video (autoplay, muted)
