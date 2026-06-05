@@ -1,6 +1,10 @@
 # Meine Website
-Meine Website Beschreibung
 
+Werkstatt & Tuning Website für Mich.
+
+## Struktur
+
+```
 mark-garage/
 ├── index.html              # Startseite
 ├── css/
@@ -20,3 +24,8 @@ mark-garage/
     │   └── video-poster.jpg
     └── videos/
         └── showreel.mp4    # Optionales Video (autoplay, muted)
+```
+
+
+Die Site ist dann erreichbar unter:  
+https://mxgn0.github.io/Mark_Website/
